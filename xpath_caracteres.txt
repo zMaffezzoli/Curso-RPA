@@ -1,0 +1,8 @@
+// -> Significa que o que desejamos achar está em qualquer lugar do documento
+
+* -> Expressão coringa, retorna qualquer tag, desde que tenha a condição depois dele
+
+[@id="1"] -> Colchetes indicam condição, condição = retorna apenas tags com o atributo id com a propriedade geral("1")
+
+/ -> Determina que o elemento está dentro de outro
+
